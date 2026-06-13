@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+supabase
+httpx
+google-generativeai
+pydantic
+pydantic-settings
